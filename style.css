@@ -2704,9 +2704,9 @@ p.prev_rate {
   height: 20vh;
 }
 .coach {
-  top: 224px;
-  width: 60%;
-  left: 74%;
+  top: 224px !important;
+  width: 60% !important;
+  left: 74% !important;
 }
 }
 
